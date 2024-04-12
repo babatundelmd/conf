@@ -1,7 +1,7 @@
 <template>
 
 <div>
-  This is a confluence 
+  This is confluence 
 </div>
 
 </template>
