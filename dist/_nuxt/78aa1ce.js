@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{263:function(n,e,t){"use strict";t.r(e);var c={name:"IndexPage"},l=t(59),component=Object(l.a)(c,(function(){return(0,this._self._c)("div",[this._v("\n  This is a confluence \n")])}),[],!1,null,null,null);e.default=component.exports}}]);
